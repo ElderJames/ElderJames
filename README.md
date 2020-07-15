@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+My name is **James Yeung**
+
+- 🔭 I’m currently working on [Ant Design Blazor](https://github.com/ant-design-blazor/ant-design-blazor).
+- 🌱 I’m currently learning reactive architecture.
+- 💕 I’m a open source enthusiast.
+- 🖖 I’m a system architecture developer.
