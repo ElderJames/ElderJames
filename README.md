@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+![Github Stats](https://github-readme-stats.vercel.app/api?username=ElderJames&show_icons=true)
+
 My name is **James Yeung**
 
 - 🔭 I’m currently working on [Ant Design Blazor](https://github.com/ant-design-blazor/ant-design-blazor).
