@@ -26,4 +26,7 @@ My name is **James Yeung**
 - 💕 I’m a open source enthusiast.
 - 🖖 I’m a system architecture developer.
 
+<img align="right" src="https://hits.b3log.org/elderjames/elderjames.svg" />
+
   ![Github Stats](https://github-readme-stats.vercel.app/api?username=ElderJames&show_icons=true)
+  
