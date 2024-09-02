@@ -15,8 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img align="right" width="250px" src="https://mvp.microsoft.com/Content/Images/mvp-banner.png" />
-
+<img align="right" width="250px" src="https://github.com/user-attachments/assets/89577b79-aced-4fe3-ada8-1a46c1b18351" />
 
 My name is **James Yeung**
 
